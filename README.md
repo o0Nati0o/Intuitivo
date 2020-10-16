@@ -12,8 +12,7 @@ There are three installation methods on Windows:
 
 1- The Microsoft Store
 
-2- The full installer
-
+2- [The full installer](https://realpython.com/installing-python/)
 
 3- Windows Subsystem for Linux
 
