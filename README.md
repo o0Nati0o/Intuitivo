@@ -11,7 +11,10 @@ Python >=  3.5
 There are three installation methods on Windows:
 
 1- The Microsoft Store
+
 2- The full installer
+
+
 3- Windows Subsystem for Linux
 
 ## Linux
